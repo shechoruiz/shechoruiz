@@ -17,8 +17,7 @@ Por otro lado, soy un aficionado a los videojuegos, dejandome absorber mucho por
 <br />
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br />
-=============
-**Lenguajes y herramientas:** 
+## Lenguajes y herramientas:
 <br />
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
