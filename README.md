@@ -31,6 +31,7 @@ Por otro lado, soy un aficionado a los videojuegos, dejandome absorber mucho por
 <br />
 Notarás que tengo un avance aún corto contra los demas desarrolladores, pero sigo dando lo mejor de mí para mejorar y demostrarlo al mejorar los valores de esta gráfica.
 <br />
+<br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shechoruiz&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!--
 **shechoruiz/shechoruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
