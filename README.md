@@ -1,5 +1,4 @@
-[![](https://www.canva.com/design/DAEhgLbOcGM/mBCE2fLB9EBb-s_D7yJI4w/view?utm_content=DAEhgLbOcGM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://github.com/shechoruiz?tab=repositories)
-
+<!--[![](https://www.canva.com/design/DAEhgLbOcGM/mBCE2fLB9EBb-s_D7yJI4w/view?utm_content=DAEhgLbOcGM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://github.com/shechoruiz?tab=repositories)-->
 # Bienvenido! 👋
 <a href="https://twitter.com/Shecho_Ruiz" target="_blank">
   <img align="left" alt="Sergio Ruiz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
