@@ -1,13 +1,16 @@
 [![](https://www.canva.com/design/DAEhgLbOcGM/mBCE2fLB9EBb-s_D7yJI4w/view?utm_content=DAEhgLbOcGM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://github.com/shechoruiz?tab=repositories)
 
-### Hola, soy Sergio! 👋
-<a href="https://twitter.com/Shecho_Ruiz">
+### Bienvenido! 👋
+<a href="https://twitter.com/Shecho_Ruiz" target="_blank">
   <img align="left" alt="Sergio Ruiz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/shechoruiz/">
+<a href="https://www.linkedin.com/in/shechoruiz/" target="_blank">
   <img align="left" alt="Sergio Ruiz LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br />
+Holla, Soy Sergio Ruiz, un Desarrollador Frontend que recientemente se ha certificado en lenguajes como HTML5, CSS3 y JavaScript en cuanto al desarrollo Frontend, enfatizando el uso de la librería React.js para la creación de interfaces de usuario. Sobre el desarrollo Backend tengo fundamentos en PHP y Gestión de Bases de Datos como MySQL, SQL y Mongo. Todo esto apoyado con manejo del sistema de control de versiones GIT, terminales y línea de comandos.
 
+Por otro lado, soy un aficionado a los videojuegos, dejandome absorber mucho por World of Warcarft. Estaré aquí por si deseas charlar conmigo.
 <!--
 **shechoruiz/shechoruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
