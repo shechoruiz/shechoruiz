@@ -1,6 +1,12 @@
-[![image](https://www.canva.com/design/DAEhgLbOcGM/mBCE2fLB9EBb-s_D7yJI4w/view?utm_content=DAEhgLbOcGM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://github.com/shechoruiz?tab=repositories)
+[![](https://www.canva.com/design/DAEhgLbOcGM/mBCE2fLB9EBb-s_D7yJI4w/view?utm_content=DAEhgLbOcGM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://github.com/shechoruiz?tab=repositories)
 
-### Hi there 👋
+### Hola, soy Sergio! 👋
+<a href="https://twitter.com/Shecho_Ruiz">
+  <img align="left" alt="Sergio Ruiz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/shechoruiz/">
+  <img align="left" alt="Sergio Ruiz LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!--
 **shechoruiz/shechoruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
