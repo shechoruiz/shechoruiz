@@ -27,9 +27,10 @@ Por otro lado, soy un aficionado a los videojuegos, dejandome absorber mucho por
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />
 <br />
-## Mis GitHub Stats
+### Mis GitHub Stats
 <br />
 Notarás que tengo un avance aún corto contra los demas desarrolladores, pero sigo dando lo mejor de mí para mejorar y demostrarlo al mejorar los valores de esta gráfica.
+<br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shechoruiz&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!--
 **shechoruiz/shechoruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
