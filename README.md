@@ -17,8 +17,7 @@ Por otro lado, soy un aficionado a los videojuegos, dejandome absorber mucho por
 <br />
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br />
-<br />
-##**Lenguajes y herramientas:** 
+**Lenguajes y herramientas:** 
 <br />
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -26,6 +25,12 @@ Por otro lado, soy un aficionado a los videojuegos, dejandome absorber mucho por
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br />
+<br />
+## Mis GitHub Stats
+<br />
+Notarás que tengo un avance aún corto contra los demas desarrolladores, pero sigo dando lo mejor de mí para mejorar y demostrarlo al mejorar los valores de esta gráfica.
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shechoruiz&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!--
 **shechoruiz/shechoruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
