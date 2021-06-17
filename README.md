@@ -1,6 +1,6 @@
 [![](https://www.canva.com/design/DAEhgLbOcGM/mBCE2fLB9EBb-s_D7yJI4w/view?utm_content=DAEhgLbOcGM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://github.com/shechoruiz?tab=repositories)
 
-### Bienvenido! 👋
+# Bienvenido! 👋
 <a href="https://twitter.com/Shecho_Ruiz" target="_blank">
   <img align="left" alt="Sergio Ruiz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -17,6 +17,7 @@ Por otro lado, soy un aficionado a los videojuegos, dejandome absorber mucho por
 <br />
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br />
+=============
 **Lenguajes y herramientas:** 
 <br />
 <br />
