@@ -8,7 +8,9 @@
 </a>
 <br />
 <br />
-Hola, Soy Sergio Ruiz, un Desarrollador Frontend que recientemente se ha certificado en lenguajes como HTML5, CSS3 y JavaScript en cuanto al desarrollo Frontend, enfatizando el uso de la librería React.js para la creación de interfaces de usuario. Sobre el desarrollo Backend tengo fundamentos en PHP y Gestión de Bases de Datos como MySQL y SQL. Todo esto apoyado con manejo del sistema de control de versiones GIT, terminales y línea de comandos.
+Hola! Soy un desarrollador que recientemente se ha certificado en lenguajes como HTML5, CSS3 y JavaScript en cuanto al desarrollo Frontend, enfatizando el uso de la librería React.js para la creación de interfaces de usuario y React Native para el desarrollo de aplicaciones. 
+
+Tengo experiencia en el liderazgo de equipos de tecnología y desarrollo de plataformas web, uso de bases de datos y manejo de REST API's siguiendo todas las normas y buenas prácticas para el diseño y desarrollo. Todo esto apoyado con manejo del sistema de control de versiones GIT, terminales y línea de comandos.
 <br />
 <br />
 Por otro lado, soy un aficionado a los videojuegos, dejandome absorber mucho por World of Warcarft. Estaré aquí por si deseas charlar conmigo.
@@ -19,10 +21,11 @@ Por otro lado, soy un aficionado a los videojuegos, dejandome absorber mucho por
 ## Lenguajes y herramientas:
 <br />
 <br />
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
