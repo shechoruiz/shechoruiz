@@ -1,7 +1,7 @@
 <!--[![](https://www.canva.com/design/DAEhgLbOcGM/mBCE2fLB9EBb-s_D7yJI4w/view?utm_content=DAEhgLbOcGM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://github.com/shechoruiz?tab=repositories)-->
 # Bienvenido! 👋
 <a href="https://twitter.com/Shecho_Ruiz" target="_blank">
-  <img align="left" alt="Sergio Ruiz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Sergio Ruiz | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/shechoruiz/" target="_blank">
   <img align="left" alt="Sergio Ruiz LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
